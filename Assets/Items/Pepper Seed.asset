@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62b87b610a670c149aa00c722dad9f81, type: 3}
+  m_Name: Pepper Seed
+  m_EditorClassIdentifier: 
+  itemName: Pepper Seed
+  icon: {fileID: -2040210639, guid: 7f757a330eaaeee4dbdf6fa6c7d708e0, type: 3}
+  prefab: {fileID: 4107689108473126725, guid: 3ffc27d0f7eda95428e4745946deb4a4, type: 3}
+  stackPrefab: {fileID: 0}
+  type: 3
+  seedPrefab: {fileID: 0}
+  description: Pepper seeds which can be replanted to grow more Peppers.
+  price: $0
+  FoodItem: {fileID: 0}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62b87b610a670c149aa00c722dad9f81, type: 3}
+  m_Name: Potato
+  m_EditorClassIdentifier: 
+  itemName: Potato
+  icon: {fileID: 1424189379, guid: 7f757a330eaaeee4dbdf6fa6c7d708e0, type: 3}
+  prefab: {fileID: 6733696135120659037, guid: e8174ecd1fdebba44a8f85cf73ce9342, type: 3}
+  stackPrefab: {fileID: 0}
+  type: 6
+  seedPrefab: {fileID: 5118660181808528108, guid: 665ea15e2df4da04da674afa80c7fd64, type: 3}
+  description: 'A more rare plant type found on the islands, but more filling than
+    the other more common foods. Unlike other food seeds, Potatoes produce Seed Potatoes
+    right after harvesting, rather than most seeds, which are gathered after the
+    consuming process. Potatoes are harvested not from the field type: slash, but
+    by field type: dig. If field type slash is used, this will slice the plant portion
+    of the potato down, does not damage the potato, but leaves it unharvested.'
+  price: $25
+  FoodItem: {fileID: 11400000, guid: 720833fff2d11d84897f68cf15734d41, type: 2}

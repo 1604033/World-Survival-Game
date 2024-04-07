@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62b87b610a670c149aa00c722dad9f81, type: 3}
+  m_Name: Tomato fruit
+  m_EditorClassIdentifier: 
+  itemName: Tomato fruit
+  icon: {fileID: -1505982510, guid: 7f757a330eaaeee4dbdf6fa6c7d708e0, type: 3}
+  prefab: {fileID: 4107689108473126725, guid: 793105b3b70970e409f7c93b945cdc27, type: 3}
+  stackPrefab: {fileID: 0}
+  type: 6
+  seedPrefab: {fileID: 7605975892703234513, guid: 3b373ccdd678b534486cf7a8be638d97, type: 3}
+  description: A native species of Tomato that many creatures on the island rely
+    on as a food source. Harvesting Tomatoes from the plant will yield both the tomato
+    fruit and the tomato seeds which can be replanted to create a new Tomato plant.
+  price: $3
+  FoodItem: {fileID: 11400000, guid: 5b7d574fcbbbd074cb2ae8b51184f8a3, type: 2}

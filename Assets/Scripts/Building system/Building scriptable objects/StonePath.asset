@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7bf84db406c07e4fa1fe14e21b76f56, type: 3}
+  m_Name: StonePath
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 
+  <Tile>k__BackingField: {fileID: 11400000, guid: 66cec077655953e4e88e38a9279394a6, type: 2}
+  <previewSprite>k__BackingField: {fileID: 1267726922, guid: f319e3c12aefb498f8749fbf40952192, type: 3}
+  <UIicon>k__BackingField: {fileID: 1267726922, guid: f319e3c12aefb498f8749fbf40952192, type: 3}
+  <GameObject>k__BackingField: {fileID: 0}
+  <Offset>k__BackingField: {x: 0, y: 0, z: 0}
+  <useCustomCollisionSpace>k__BackingField: 0
+  <collisionSpace>k__BackingField:
+    x: 0
+    y: 0
+    width: 0
+    height: 0

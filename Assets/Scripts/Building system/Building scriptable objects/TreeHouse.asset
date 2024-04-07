@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7bf84db406c07e4fa1fe14e21b76f56, type: 3}
+  m_Name: TreeHouse
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 
+  <Description>k__BackingField: 
+  category: 0
+  Type: 0
+  has2NdStageGameObject: 0
+  hasInteriorGameObject: 0
+  needsAnotherBuildingToConstruct: 0
+  canOnlyBeOneInstance: 0
+  baseBuilding: {fileID: 0}
+  itemsNeedCounts: 
+  itemsDatasNeededToConstruct: []
+  <Tile>k__BackingField: {fileID: 0}
+  <previewSprite>k__BackingField: {fileID: 0}
+  <UIicon>k__BackingField: {fileID: 0}
+  <GameObject>k__BackingField: {fileID: 0}
+  <OffsetFromPlayer>k__BackingField: {x: 0, y: 0, z: 0}
+  <OffsetFromPlayer4D>k__BackingField: {x: 0, y: 0, z: 0, w: 0}
+  <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  <occupiesMoreThanOneTile>k__BackingField: 0
+  <collisionSpace>k__BackingField:
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  <collisionVector>k__BackingField: {x: 0, y: 0}

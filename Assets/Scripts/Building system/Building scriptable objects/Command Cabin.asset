@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7bf84db406c07e4fa1fe14e21b76f56, type: 3}
+  m_Name: Command Cabin
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Command Cabin
+  <Description>k__BackingField: 'Description: The Player''s home as well as the center
+    for all base operations. A key building that denotes the start of a new base.
+    One of two structures the player can enter. Customizable interior complete with
+    a bed (where the player can sleep) and a Multiscreen Command Console that provides
+    the player with an overview of base, and farm operations. Can also receive emails.'
+  TemporaryVectorCollision: {x: 0, y: 0.5}
+  category: 1
+  Type: 1
+  specificTilesToBePlacedUpon: []
+  has2NdStageGameObject: 1
+  hasInteriorGameObject: 1
+  needsAnotherBuildingToConstruct: 0
+  canOnlyBeOneInstance: 0
+  canBePlacedInSpecificTiles: 0
+  baseBuilding: {fileID: 0}
+  itemsNeedCounts: 06000000
+  itemsDatasNeededToConstruct:
+  - {fileID: 11400000, guid: 05390f4b693056d4ebd6c4883bba13aa, type: 2}
+  <Tile>k__BackingField: {fileID: 0}
+  <previewSprite>k__BackingField: {fileID: 21300000, guid: b09baa517f6f6b34b87172525308a969, type: 3}
+  <UIicon>k__BackingField: {fileID: 21300000, guid: b09baa517f6f6b34b87172525308a969, type: 3}
+  <GameObject>k__BackingField: {fileID: 5417691559166514743, guid: a7dbbbbe697b57d49bd1a625b32d21fd, type: 3}
+  <OffsetFromPlayer>k__BackingField: {x: 1, y: 0, z: 0}
+  <OffsetFromPlayer4D>k__BackingField: {x: 1.3, y: 1.3, z: 1.3, w: 1.3}
+  <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  <occupiesMoreThanOneTile>k__BackingField: 1
+  <collisionSpace>k__BackingField:
+    x: 0
+    y: 0
+    width: 6
+    height: 6
+  <collisionVector>k__BackingField: {x: 5, y: 4}

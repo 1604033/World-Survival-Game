@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e661367b202f42c6b959f18f1c293a3, type: 3}
+  m_Name: Gate
+  m_EditorClassIdentifier: 
+  tile:
+  - {fileID: 11400000, guid: 0800479bceef10f4785701e505168f66, type: 2}
+  itemData: {fileID: 11400000, guid: 05390f4b693056d4ebd6c4883bba13aa, type: 2}
+  quantity: 2

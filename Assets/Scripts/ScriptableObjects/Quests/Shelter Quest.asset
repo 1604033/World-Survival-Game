@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43c8b1afce67ca94593ff194eb6c476a, type: 3}
+  m_Name: Shelter Quest
+  m_EditorClassIdentifier: 
+  UniqueId: 
+  Name: Shelter Quest
+  State: 3
+  DefaultState: 0
+  nextQuest: {fileID: 0}
+  previousQuest: {fileID: 0}
+  QuestDialogueUUIds:
+    Quest: {fileID: 0}
+    Coordinates: []
+  Buildings: 01000000

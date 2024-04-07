@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7bf84db406c07e4fa1fe14e21b76f56, type: 3}
+  m_Name: Sign Post
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Sign Post
+  <Description>k__BackingField: Acts a signpost to show direction and interaction.
+  Type: 0
+  itemsNeedCounts: 03000000
+  itemsDatasNeededToConstruct:
+  - {fileID: 11400000, guid: 05390f4b693056d4ebd6c4883bba13aa, type: 2}
+  <Tile>k__BackingField: {fileID: 0}
+  <previewSprite>k__BackingField: {fileID: -381925746, guid: 0209cdf8f2ac8124783617529b8db3ad, type: 3}
+  <UIicon>k__BackingField: {fileID: -381925746, guid: 0209cdf8f2ac8124783617529b8db3ad, type: 3}
+  <GameObject>k__BackingField: {fileID: 6568019685740826613, guid: ef09267b4e767404da4ee3c1e0d16807, type: 3}
+  <OffsetFromPlayer>k__BackingField: {x: 0.95, y: 0, z: 0}
+  <OffsetFromPlayer4D>k__BackingField: {x: 1.3, y: 1.3, z: 1.3, w: 1.3}
+  <TileOffset>k__BackingField: {x: 0.5, y: 0.5, z: 0}
+  <occupiesMoreThanOneTile>k__BackingField: 0
+  <collisionSpace>k__BackingField:
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  <collisionVector>k__BackingField: {x: 1, y: 1}

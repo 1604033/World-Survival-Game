@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7bf84db406c07e4fa1fe14e21b76f56, type: 3}
+  m_Name: Shelter
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Shelter
+  <Description>k__BackingField: A basic shelter for your creatures. A shelter will
+    keep your creatures happy and protect them from the elements. A level 1 shelter
+    can house up to 2 creatures. An upgraded shelter (house) can house up to 4 creatures
+  TemporaryVectorCollision: {x: 0.6, y: 0}
+  category: 0
+  Type: 1
+  specificTilesToBePlacedUpon: []
+  has2NdStageGameObject: 0
+  hasInteriorGameObject: 0
+  needsAnotherBuildingToConstruct: 0
+  canOnlyBeOneInstance: 0
+  canBePlacedInSpecificTiles: 0
+  baseBuilding: {fileID: 0}
+  itemsNeedCounts: 06000000
+  itemsDatasNeededToConstruct:
+  - {fileID: 11400000, guid: 05390f4b693056d4ebd6c4883bba13aa, type: 2}
+  <Tile>k__BackingField: {fileID: 0}
+  <previewSprite>k__BackingField: {fileID: 151169815, guid: a9a4e85a0459b9b4d9f46b5933795d70, type: 3}
+  <UIicon>k__BackingField: {fileID: 151169815, guid: a9a4e85a0459b9b4d9f46b5933795d70, type: 3}
+  <GameObject>k__BackingField: {fileID: 2945862086136454994, guid: e91803f12b767ea4ebae058bb7089ba6, type: 3}
+  <OffsetFromPlayer>k__BackingField: {x: 0.95, y: 0, z: 0}
+  <OffsetFromPlayer4D>k__BackingField: {x: 1.3, y: 1.3, z: 1.3, w: 1.3}
+  <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  <occupiesMoreThanOneTile>k__BackingField: 1
+  <collisionSpace>k__BackingField:
+    x: 0
+    y: 0
+    width: 6
+    height: 6
+  <collisionVector>k__BackingField: {x: 3, y: 4}

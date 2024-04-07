@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98f76dcf08b94954b8548c20b4caac0f, type: 3}
+  m_Name: Tomato 1
+  m_EditorClassIdentifier: 
+  cropName: Tomato
+  description: Tomato fruit
+  growthTime: 0
+  growthSprites:
+  - {fileID: 215901229, guid: ee34dc6d251940743a354201e9b12c56, type: 3}
+  - {fileID: -523890795, guid: ee34dc6d251940743a354201e9b12c56, type: 3}
+  - {fileID: -942489259, guid: ee34dc6d251940743a354201e9b12c56, type: 3}
+  - {fileID: -13973113, guid: 7f757a330eaaeee4dbdf6fa6c7d708e0, type: 3}
+  harvestSprite: {fileID: 1412750313, guid: ee34dc6d251940743a354201e9b12c56, type: 3}
+  item: {fileID: 0}
+  fruitPrefab: {fileID: 4107689108473126725, guid: 58254fe2f9f2f43c880e7bba960b1cc4, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62b87b610a670c149aa00c722dad9f81, type: 3}
+  m_Name: Alloys
+  m_EditorClassIdentifier: 
+  itemName: Alloys
+  icon: {fileID: 716643959, guid: 0209cdf8f2ac8124783617529b8db3ad, type: 3}
+  prefab: {fileID: 4129759569919869810, guid: f50b8116e5b4328439916e19f4ba7d2c, type: 3}
+  type: 0
+  seedPrefab: {fileID: 0}
+  description: 
+  price: 
+  FoodItem: {fileID: 0}

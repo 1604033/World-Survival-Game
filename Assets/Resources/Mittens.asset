@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b3fd9154634ebdb8c8a48960b9a16a, type: 3}
+  m_Name: Mittens
+  m_EditorClassIdentifier: 
+  NodeLinks:
+  - BaseNodeGUID: 90ce2f3b-9654-4071-8869-9f4ba840abea
+    PortName: Next
+    TargetNodeGUID: 9f5473c7-2347-4b4b-abad-64263128729c
+  - BaseNodeGUID: 94d9681c-a36c-45ea-bae5-9298e27f069e
+    PortName: Option 1
+    TargetNodeGUID: dd6a14c3-b9d4-4349-8624-33d0711b6bd4
+  - BaseNodeGUID: dd6a14c3-b9d4-4349-8624-33d0711b6bd4
+    PortName: Option 1
+    TargetNodeGUID: 68a77b8d-a78e-423f-bb51-852080dc820c
+  - BaseNodeGUID: 68a77b8d-a78e-423f-bb51-852080dc820c
+    PortName: Option 1
+    TargetNodeGUID: 4b8a3272-4729-4aaa-acbf-1bc79249f787
+  - BaseNodeGUID: 4b8a3272-4729-4aaa-acbf-1bc79249f787
+    PortName: Option 1
+    TargetNodeGUID: fcd35deb-4df4-4b16-b973-1e5e6f1c26a7
+  - BaseNodeGUID: fcd35deb-4df4-4b16-b973-1e5e6f1c26a7
+    PortName: Option 1
+    TargetNodeGUID: 96f3e40a-5b2c-4e4c-aead-fbd792fc93e3
+  - BaseNodeGUID: fcd35deb-4df4-4b16-b973-1e5e6f1c26a7
+    PortName: Option 2
+    TargetNodeGUID: 83dcbff3-5e52-434c-90c5-03b9e1de7fc5
+  - BaseNodeGUID: 83dcbff3-5e52-434c-90c5-03b9e1de7fc5
+    PortName: Option 1
+    TargetNodeGUID: 56a2557c-c538-45ba-ad2f-6cd08f429527
+  - BaseNodeGUID: 56a2557c-c538-45ba-ad2f-6cd08f429527
+    PortName: Option 1
+    TargetNodeGUID: ae2f2aad-2909-4ebc-b990-fbffbe2df926
+  - BaseNodeGUID: 9f5473c7-2347-4b4b-abad-64263128729c
+    PortName: Option 1
+    TargetNodeGUID: df7953d7-55d4-427a-a081-1885d3f31b9a
+  - BaseNodeGUID: df7953d7-55d4-427a-a081-1885d3f31b9a
+    PortName: Option 1
+    TargetNodeGUID: 94d9681c-a36c-45ea-bae5-9298e27f069e
+  - BaseNodeGUID: 4b7eaa50-edba-4bd1-bd99-7ae00773b1ed
+    PortName: Option 1
+    TargetNodeGUID: 50136509-0c5b-4d86-9f9a-97467cc825e7
+  - BaseNodeGUID: ae2f2aad-2909-4ebc-b990-fbffbe2df926
+    PortName: Option 1
+    TargetNodeGUID: 4b7eaa50-edba-4bd1-bd99-7ae00773b1ed
+  DialogueNodeData:
+  - NodeGUID: dd6a14c3-b9d4-4349-8624-33d0711b6bd4
+    DialogueText: 'Just Purrrfect... well might as well get started. '
+    Position: {x: 209.33333, y: 349.3333}
+  - NodeGUID: 4b8a3272-4729-4aaa-acbf-1bc79249f787
+    DialogueText: 'Report back to me when you have completed your task for your next
+      instruction. '
+    Position: {x: 209.33333, y: 548}
+  - NodeGUID: 96f3e40a-5b2c-4e4c-aead-fbd792fc93e3
+    DialogueText: PT!!! PT!!! PT!!!! PT!!!!
+    Position: {x: 1107.3334, y: 597.3334}
+  - NodeGUID: fcd35deb-4df4-4b16-b973-1e5e6f1c26a7
+    DialogueText: If you fail to preform this series of tasks exactly as instructed
+      I WILL PT YOU UNTIL YOU $%&#@! DIE !!!!!! DO YOU GET ME????
+    Position: {x: 209.33333, y: 647.3334}
+  - NodeGUID: 83dcbff3-5e52-434c-90c5-03b9e1de7fc5
+    DialogueText: 'Hey not bad trainee. Maybe you''re not as worthless as you appear
+      HAHAHA. '
+    Position: {x: 1107.3334, y: 822.6667}
+  - NodeGUID: 56a2557c-c538-45ba-ad2f-6cd08f429527
+    DialogueText: Looks like you are ready for your last task.
+    Position: {x: 1107.3334, y: 922}
+  - NodeGUID: 9f5473c7-2347-4b4b-abad-64263128729c
+    DialogueText: Attention! ....... I SAID STAND AT ATTENTION TRAINEE!
+    Position: {x: 209.33333, y: 31.999998}
+  - NodeGUID: df7953d7-55d4-427a-a081-1885d3f31b9a
+    DialogueText: 'Just my luck to get a complete and utter noob like you to train... '
+    Position: {x: 209.33333, y: 131.33334}
+  - NodeGUID: 94d9681c-a36c-45ea-bae5-9298e27f069e
+    DialogueText: 'Command must truly be desperate if they are sending me such undisciplined
+      slop. '
+    Position: {x: 209.33333, y: 230.66667}
+  - NodeGUID: 68a77b8d-a78e-423f-bb51-852080dc820c
+    DialogueText: ' You see that bit of fertile ground next to that dug up patch,
+      I want you to dig that area, plant a tomato seed from your inventory, water
+      it, and harvest it when it is plump and ready'
+    Position: {x: 209.33333, y: 448.66666}
+  - NodeGUID: 50136509-0c5b-4d86-9f9a-97467cc825e7
+    DialogueText: WELL WHAT ARE YOU WAITING FOR!?!?! AN INVITATION!?!?!? RUNNN!!!
+      RUNNN!!! RUNNN!!!
+    Position: {x: 1107.3334, y: 1299.3333}
+  - NodeGUID: ae2f2aad-2909-4ebc-b990-fbffbe2df926
+    DialogueText: 'You see that chest right there? Loot its contents and add them
+      to your inventory, then drop those Tomatoes that you just harvested into the
+      box. '
+    Position: {x: 1107.3334, y: 1043.3333}
+  - NodeGUID: 4b7eaa50-edba-4bd1-bd99-7ae00773b1ed
+    DialogueText: Once you have done that you will have proven yourself to be a worthy
+      addition to this Island...
+    Position: {x: 1107.3334, y: 1154.6666}
+  ExposedProperties: []
+  CommentBlockData: []

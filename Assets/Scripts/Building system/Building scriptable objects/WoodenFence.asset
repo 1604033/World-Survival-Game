@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7bf84db406c07e4fa1fe14e21b76f56, type: 3}
+  m_Name: WoodenFence
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 
+  Type: 2
+  itemsNeedCounts: 01000000
+  itemsDatasNeededToConstruct:
+  - {fileID: 11400000, guid: 05390f4b693056d4ebd6c4883bba13aa, type: 2}
+  <Tile>k__BackingField: {fileID: 11400000, guid: f5c08795b93a5674ba97e7516ef7e858, type: 2}
+  <previewSprite>k__BackingField: {fileID: -1195857768, guid: a17bf2f71fc69e641a81d0d33930fad5, type: 3}
+  <UIicon>k__BackingField: {fileID: -2121163384, guid: a17bf2f71fc69e641a81d0d33930fad5, type: 3}
+  <GameObject>k__BackingField: {fileID: 0}
+  <OffsetFromPlayer>k__BackingField: {x: 0.85, y: 0, z: 0}
+  <OffsetFromPlayer4D>k__BackingField: {x: 1, y: 1, z: 1.2, w: 1.2}
+  <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  <occupiesMoreThanOneTile>k__BackingField: 0
+  <collisionSpace>k__BackingField:
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  <collisionVector>k__BackingField: {x: 1, y: 1}

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7bf84db406c07e4fa1fe14e21b76f56, type: 3}
+  m_Name: PowerPlant
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Power Plant
+  <Description>k__BackingField: 'Description: A wood camp allows for up to 2 creatures
+    to chop down nearby trees for additional wood resources. Once occupied, a creature
+    will automatically chop nearby trees, and deposit the wood into the stockpile.
+    A creature will chop approximately one wood every 2 min. A Wood Camp must be
+    placed adjacent to nearby trees/forest.'
+  TemporaryVectorCollision: {x: 0, y: 0}
+  category: 1
+  Type: 5
+  specificTilesToBePlacedUpon:
+  - {fileID: 11400000, guid: e8e203cfbacaf134fa255e005277c850, type: 2}
+  has2NdStageGameObject: 0
+  hasInteriorGameObject: 0
+  needsAnotherBuildingToConstruct: 0
+  canOnlyBeOneInstance: 0
+  canBePlacedInSpecificTiles: 1
+  baseBuilding: {fileID: 0}
+  itemsNeedCounts: 14000000
+  itemsDatasNeededToConstruct:
+  - {fileID: 11400000, guid: 05390f4b693056d4ebd6c4883bba13aa, type: 2}
+  <Tile>k__BackingField: {fileID: 0}
+  <previewSprite>k__BackingField: {fileID: 21300000, guid: 79b78fdd4048fba4faa7b0a2c74da866, type: 3}
+  <UIicon>k__BackingField: {fileID: 21300000, guid: 79b78fdd4048fba4faa7b0a2c74da866, type: 3}
+  <GameObject>k__BackingField: {fileID: 2945862086136454994, guid: 124ef34e13b1c3d4a88a7195e22d8d1d, type: 3}
+  <OffsetFromPlayer>k__BackingField: {x: 0.95, y: 0, z: 0}
+  <OffsetFromPlayer4D>k__BackingField: {x: 1.3, y: 1.3, z: 1.3, w: 1.3}
+  <TileOffset>k__BackingField: {x: 0, y: -2.4, z: 0}
+  <occupiesMoreThanOneTile>k__BackingField: 1
+  <collisionSpace>k__BackingField:
+    x: 0
+    y: 0
+    width: 6
+    height: 6
+  <collisionVector>k__BackingField: {x: 3, y: 4}

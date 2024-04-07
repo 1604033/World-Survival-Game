@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b3fd9154634ebdb8c8a48960b9a16a, type: 3}
+  m_Name: Catoshi
+  m_EditorClassIdentifier: 
+  NodeLinks:
+  - BaseNodeGUID: 593007d2-85d6-45e8-a430-6038bf240ee3
+    PortName: Next
+    TargetNodeGUID: 7d5d31b8-026f-4144-803c-da585b361ce4
+  - BaseNodeGUID: c862dd65-13c1-42d7-8e52-a7031a4e16a4
+    PortName: 0
+    TargetNodeGUID: a05a48ca-4da1-4c58-9da0-44d804c118b2
+  - BaseNodeGUID: 7d5d31b8-026f-4144-803c-da585b361ce4
+    PortName: 0
+    TargetNodeGUID: c862dd65-13c1-42d7-8e52-a7031a4e16a4
+  - BaseNodeGUID: a05a48ca-4da1-4c58-9da0-44d804c118b2
+    PortName: 0
+    TargetNodeGUID: cf4dc3eb-dbc8-4097-8ec5-8009c4530a61
+  - BaseNodeGUID: cf4dc3eb-dbc8-4097-8ec5-8009c4530a61
+    PortName: 0
+    TargetNodeGUID: 73160d9d-387a-4c99-8618-59c3594df693
+  - BaseNodeGUID: 73160d9d-387a-4c99-8618-59c3594df693
+    PortName: 0
+    TargetNodeGUID: 83b9e440-fa7b-4161-b680-c41c576740fb
+  - BaseNodeGUID: 83b9e440-fa7b-4161-b680-c41c576740fb
+    PortName: 0
+    TargetNodeGUID: 1a613e5f-3b1d-411c-a76d-ab1e483a6e55
+  - BaseNodeGUID: 1a613e5f-3b1d-411c-a76d-ab1e483a6e55
+    PortName: 0
+    TargetNodeGUID: 7bc5640b-7226-4d05-82dd-0219c3027a44
+  - BaseNodeGUID: 7bc5640b-7226-4d05-82dd-0219c3027a44
+    PortName: 0
+    TargetNodeGUID: b1f5aff7-0ebd-4539-a863-7188d56e9a3e
+  - BaseNodeGUID: b1f5aff7-0ebd-4539-a863-7188d56e9a3e
+    PortName: 0
+    TargetNodeGUID: 850e6935-1cdf-4d0f-9654-31750ef36dd0
+  - BaseNodeGUID: 73160d9d-387a-4c99-8618-59c3594df693
+    PortName: 0
+    TargetNodeGUID: 8f6b3b6c-871d-4364-9561-33e22988841d
+  DialogueNodeData:
+  - NodeGUID: c862dd65-13c1-42d7-8e52-a7031a4e16a4
+    DialogueText: Myself and Gunnery Sgt. Mittens are here to teach you some of the
+      basics of our game.
+    Position: {x: 230, y: 161.33334}
+  - NodeGUID: 7d5d31b8-026f-4144-803c-da585b361ce4
+    DialogueText: Welcome to the Island new Player! My name is Catoshi Nekemoto.
+    Position: {x: 230, y: 62}
+  - NodeGUID: a05a48ca-4da1-4c58-9da0-44d804c118b2
+    DialogueText: When you are ready, head over to the resource pile and pickup and
+      inspect some of the items.
+    Position: {x: 230, y: 260.66666}
+  - NodeGUID: cf4dc3eb-dbc8-4097-8ec5-8009c4530a61
+    DialogueText: Be sure to collect enough wood, and then using our build screen,
+      make a shelter using the Wood resource.
+    Position: {x: 230, y: 360}
+  - NodeGUID: 73160d9d-387a-4c99-8618-59c3594df693
+    DialogueText: Once you are done, come back and talk to me.
+    Position: {x: 230, y: 459.3333}
+  - NodeGUID: 83b9e440-fa7b-4161-b680-c41c576740fb
+    DialogueText: 'Congratulations! You''ve built a shelter! The shelter is just
+      one of the buildings you and your monsters will be able to make in our game. '
+    Position: {x: 694.6667, y: 593.3334}
+  - NodeGUID: 1a613e5f-3b1d-411c-a76d-ab1e483a6e55
+    DialogueText: Now to learn some farming. These guys gets hungry after working
+      big jobs like that you know.
+    Position: {x: 694.6667, y: 692.6667}
+  - NodeGUID: 7bc5640b-7226-4d05-82dd-0219c3027a44
+    DialogueText: 'Gunnery Sgt. Mittens is waiting for you just past the north exit
+      to the base. '
+    Position: {x: 694.6667, y: 792}
+  - NodeGUID: b1f5aff7-0ebd-4539-a863-7188d56e9a3e
+    DialogueText: 'It would be best not to keep him waiting, he''s already quite
+      a... intense and eccentric individual. '
+    Position: {x: 694.6667, y: 891.3334}
+  - NodeGUID: 850e6935-1cdf-4d0f-9654-31750ef36dd0
+    DialogueText: As I'm sure you will find out. Good Luck!
+    Position: {x: 694.6667, y: 990.6667}
+  - NodeGUID: 8f6b3b6c-871d-4364-9561-33e22988841d
+    DialogueText: PT !!!
+    Position: {x: 694.6667, y: 493.99997}
+  ExposedProperties: []
+  CommentBlockData: []

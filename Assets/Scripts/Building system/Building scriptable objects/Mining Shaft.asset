@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7bf84db406c07e4fa1fe14e21b76f56, type: 3}
+  m_Name: Mining Shaft
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Mining Shaft
+  <Description>k__BackingField: ' A derelict mineshaft that needs to be rebuilt.
+    Once built, will give the player access to the mine, where they can assign creatures
+    to mine for precious metals, gems, and alloys (advanced building resource). Initially
+    only one creature can occupy this structure. The player must clear out and secure
+    deeper levels of the mine in order to free up more creature slots. A creature
+    will mine 1 alloy approximately every 5 mins with a small chance of finding precious
+    metals and gems.'
+  TemporaryVectorCollision: {x: 0, y: 0}
+  category: 0
+  Type: 2
+  specificTilesToBePlacedUpon: []
+  has2NdStageGameObject: 1
+  hasInteriorGameObject: 1
+  needsAnotherBuildingToConstruct: 1
+  canOnlyBeOneInstance: 0
+  canBePlacedInSpecificTiles: 0
+  baseBuilding: {fileID: 1113102778336929073, guid: ca7a739bc4f2b1f47828a8c5209407f9, type: 3}
+  itemsNeedCounts: 06000000
+  itemsDatasNeededToConstruct:
+  - {fileID: 11400000, guid: 05390f4b693056d4ebd6c4883bba13aa, type: 2}
+  <Tile>k__BackingField: {fileID: 0}
+  <previewSprite>k__BackingField: {fileID: 21300000, guid: 26aa393f1ef78524383fa6be5fc7d512, type: 3}
+  <UIicon>k__BackingField: {fileID: 21300000, guid: 26aa393f1ef78524383fa6be5fc7d512, type: 3}
+  <GameObject>k__BackingField: {fileID: 5417691559166514743, guid: 94d7ff11a29c95e419077475c14d64f7, type: 3}
+  <OffsetFromPlayer>k__BackingField: {x: 0.95, y: 0, z: 0}
+  <OffsetFromPlayer4D>k__BackingField: {x: 1.3, y: 1.3, z: 1.3, w: 1.3}
+  <TileOffset>k__BackingField: {x: 0.5, y: 0.5, z: 0}
+  <occupiesMoreThanOneTile>k__BackingField: 1
+  <collisionSpace>k__BackingField:
+    x: 0
+    y: 0
+    width: 6
+    height: 6
+  <collisionVector>k__BackingField: {x: 3, y: 4}
